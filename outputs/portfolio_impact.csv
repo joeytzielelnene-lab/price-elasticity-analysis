@@ -1,0 +1,4 @@
+segment,products,current_revenue,projected_delta,delta_low,delta_high,pct_of_segment_revenue
+"price increases (inelastic, margin-safe)",11,25714.92,1291.92,429.07,2184.26,5.02
+"price decreases (elastic, needs margin check)",867,5275062.41,620754.15,237607.91,1054463.33,11.77
+all robust recommendations,878,5300777.33,622046.07,238036.98,1056647.59,11.73

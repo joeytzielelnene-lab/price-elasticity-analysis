@@ -1,0 +1,10 @@
+metric,value
+products fitted,1885.0
+significant after FDR,1547.0
+wrong-signed (positive) elasticity,36.0
+significant AND positive (endogeneity flag),1.0
+"defensible (significant, negative)",1546.0
+  of which elastic (b < -1),1422.0
+  of which inelastic (-1 <= b < 0),124.0
+median elasticity (defensible),-1.787
+revenue covered by defensible set,8310676.88

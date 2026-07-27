@@ -1,0 +1,4 @@
+price_measure,products_fitted,median_elasticity,mean_elasticity,pct_elastic_below_-1,pct_wrong_signed
+avg_price,2388,-2.387,-2.677,90.5,1.9
+median_line_price,1885,-1.62,-1.711,81.0,1.9
+modal_line_price,1110,-1.608,-1.662,82.0,1.4

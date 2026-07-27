@@ -1,0 +1,33 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Secrets
+.env
+
+# Source data: 45MB workbook + its zip and the derived Parquet cache.
+# Download from https://archive.ics.uci.edu/dataset/502/online+retail+ii
+data/*.xlsx
+data/*.zip
+data/*.parquet
+
+# Ruflo runtime and generated agent config (not part of this project)
+.claude/
+.claude-flow/
+.swarm/
+.agents/
+ruvector.db
+CLAUDE.md
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
