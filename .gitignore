@@ -31,3 +31,8 @@ CLAUDE.md
 
 # macOS
 .DS_Store
+
+# Personal documents kept in the working directory (contain PII).
+# This repo is public -- never commit these.
+akash.tex
+*.pdf
