@@ -19,7 +19,9 @@ data/*.zip
 data/*.parquet
 
 # Ruflo runtime and generated agent config (not part of this project)
-.claude/
+.claude/*
+!.claude/settings.json
+!.claude/hooks/
 .claude-flow/
 .swarm/
 .agents/
